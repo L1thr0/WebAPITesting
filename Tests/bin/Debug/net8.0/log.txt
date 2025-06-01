@@ -1,0 +1,212 @@
+2025-05-26 15:47:42,008 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Global setup initialized.
+2025-05-26 15:47:42,742 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Browser started
+2025-05-26 15:47:42,744 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Starting navigation test...
+2025-05-26 15:47:47,374 [NUnit.Fw.ParallelWorker#7] DEBUG WebUITests.NavigationTests - Navigated to Home Page
+2025-05-26 15:47:48,581 [NUnit.Fw.ParallelWorker#7] DEBUG WebUITests.NavigationTests - Clicked on About
+2025-05-26 15:47:48,590 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Verified URL
+2025-05-26 15:47:48,592 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Verified title
+2025-05-26 15:47:48,605 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Verified header
+2025-05-26 15:47:48,605 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Navigation test passed successfully.
+2025-05-26 15:47:48,740 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Browser closed
+2025-05-26 18:43:09,963 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Global setup initialized.
+2025-05-26 18:43:11,544 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Start of NavigationTests
+2025-05-26 18:43:11,957 [NUnit.Fw.ParallelWorker#2] DEBUG WebUITests.NavigationTests - Navigated to Home Page
+2025-05-26 18:43:12,157 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - Start of ContactPageTests
+2025-05-26 18:43:12,157 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - Navigating to Contact page
+2025-05-26 18:43:12,157 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-05-26 18:43:12,158 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'study programs'
+2025-05-26 18:43:12,864 [NUnit.Fw.ParallelWorker#8] INFO  WebUITests.LanguageSwitchTests - Start of LanguageSwitchTests
+2025-05-26 18:43:12,864 [NUnit.Fw.ParallelWorker#8] INFO  WebUITests.LanguageSwitchTests - Navigating to https://en.ehu.lt/
+2025-05-26 18:43:18,106 [NUnit.Fw.ParallelWorker#12] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-05-26 18:43:18,549 [NUnit.Fw.ParallelWorker#2] DEBUG WebUITests.NavigationTests - Clicked on About
+2025-05-26 18:43:18,559 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Verified URL
+2025-05-26 18:43:18,562 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Verified title
+2025-05-26 18:43:18,576 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Verified header
+2025-05-26 18:43:18,576 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Navigation test passed successfully.
+2025-05-26 18:43:18,733 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - End of NavigationTests
+2025-05-26 18:43:20,794 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=study+programs'
+2025-05-26 18:43:20,797 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-05-26 18:43:20,901 [NUnit.Fw.ParallelWorker#8] DEBUG WebUITests.LanguageSwitchTests - Clicking language switcher
+2025-05-26 18:43:20,943 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-05-26 18:43:21,033 [NUnit.Fw.ParallelWorker#8] INFO  WebUITests.LanguageSwitchTests - Lithuanian link found, clicking it
+2025-05-26 18:43:22,646 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-05-26 18:43:23,816 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-05-26 18:43:23,816 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'erasmus'
+2025-05-26 18:43:26,270 [NUnit.Fw.ParallelWorker#8] INFO  WebUITests.LanguageSwitchTests - Successfully switched to Lithuanian version
+2025-05-26 18:43:26,449 [NUnit.Fw.ParallelWorker#8] INFO  WebUITests.LanguageSwitchTests - End of LanguageSwitchTests
+2025-05-26 18:43:28,473 [NUnit.Fw.ParallelWorker#12] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-05-26 18:43:30,941 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=erasmus'
+2025-05-26 18:43:30,944 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-05-26 18:43:31,072 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-05-26 18:43:53,633 [NUnit.Fw.ParallelWorker#10] DEBUG WebUITests.ContactPageTests - Page source loaded
+2025-05-26 18:43:53,633 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - Checking contact info presence
+2025-05-26 18:43:53,633 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - Checking social links
+2025-05-26 18:43:53,633 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - Contact and social info successfully verified
+2025-05-26 18:43:53,722 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - End of ContactPageTests
+2025-05-26 18:45:39,818 [NUnit.Fw.ParallelWorker#1] INFO  WebUITests.NavigationTests - Global setup initialized.
+2025-05-26 18:45:40,857 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-05-26 18:45:40,859 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'study programs'
+2025-05-26 18:45:40,891 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - Start of LanguageSwitchTests
+2025-05-26 18:45:40,894 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - Navigating to https://en.ehu.lt/
+2025-05-26 18:45:40,927 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.ContactPageTests - Start of ContactPageTests
+2025-05-26 18:45:40,927 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.ContactPageTests - Navigating to Contact page
+2025-05-26 18:45:41,540 [NUnit.Fw.ParallelWorker#1] INFO  WebUITests.NavigationTests - Start of NavigationTests
+2025-05-26 18:45:41,541 [NUnit.Fw.ParallelWorker#1] INFO  WebUITests.NavigationTests - Start of NavigationTests
+2025-05-26 18:45:41,542 [NUnit.Fw.ParallelWorker#1] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/
+2025-05-26 18:45:44,095 [NUnit.Fw.ParallelWorker#9] DEBUG WebUITests.ContactPageTests - Page source loaded
+2025-05-26 18:45:44,095 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.ContactPageTests - Checking contact info presence
+2025-05-26 18:45:44,103 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.ContactPageTests - Checking social links
+2025-05-26 18:45:44,103 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.ContactPageTests - Contact and social info successfully verified
+2025-05-26 18:45:44,216 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.ContactPageTests - End of ContactPageTests
+2025-05-26 18:45:46,686 [NUnit.Fw.ParallelWorker#10] DEBUG WebUITests.LanguageSwitchTests - Clicking language switcher
+2025-05-26 18:45:46,827 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - Lithuanian link found, clicking it
+2025-05-26 18:45:47,005 [NUnit.Fw.ParallelWorker#7] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-05-26 18:45:49,690 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=study+programs'
+2025-05-26 18:45:49,693 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-05-26 18:45:49,890 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-05-26 18:45:51,007 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-05-26 18:45:51,008 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'admissions'
+2025-05-26 18:45:51,704 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - Successfully switched to Lithuanian version
+2025-05-26 18:45:51,945 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - End of LanguageSwitchTests
+2025-05-26 18:45:55,884 [NUnit.Fw.ParallelWorker#7] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-05-26 18:45:58,439 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=admissions'
+2025-05-26 18:45:58,442 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-05-26 18:45:58,588 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-05-26 18:45:59,691 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-05-26 18:45:59,691 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'erasmus'
+2025-05-26 18:46:04,510 [NUnit.Fw.ParallelWorker#7] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-05-26 18:46:07,069 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=erasmus'
+2025-05-26 18:46:07,071 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-05-26 18:46:07,220 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-05-26 18:46:24,541 [NUnit.Fw.ParallelWorker#1] DEBUG WebUITests.NavigationTests - Clicked on About
+2025-05-26 18:46:24,544 [NUnit.Fw.ParallelWorker#1] INFO  WebUITests.NavigationTests - Verified URL
+2025-05-26 18:46:24,546 [NUnit.Fw.ParallelWorker#1] INFO  WebUITests.NavigationTests - Verified title
+2025-05-26 18:46:24,563 [NUnit.Fw.ParallelWorker#1] INFO  WebUITests.NavigationTests - Verified header
+2025-05-26 18:46:24,563 [NUnit.Fw.ParallelWorker#1] INFO  WebUITests.NavigationTests - Navigation test passed successfully.
+2025-05-26 18:46:24,707 [NUnit.Fw.ParallelWorker#1] INFO  WebUITests.NavigationTests - End of NavigationTests
+2025-05-26 19:21:03,813 [NUnit.Fw.ParallelWorker#4] INFO  WebUITests.NavigationTests - Global setup initialized.
+2025-05-26 19:21:04,515 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.ContactPageTests - Start of ContactPageTests
+2025-05-26 19:21:04,518 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.ContactPageTests - Navigating to Contact page
+2025-05-26 19:21:04,600 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-05-26 19:21:04,600 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - Start of LanguageSwitchTests
+2025-05-26 19:21:04,601 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'study programs'
+2025-05-26 19:21:04,601 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - Navigating to https://en.ehu.lt/
+2025-05-26 19:21:05,203 [NUnit.Fw.ParallelWorker#4] INFO  WebUITests.NavigationTests - Start of NavigationTests
+2025-05-26 19:21:05,204 [NUnit.Fw.ParallelWorker#4] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/
+2025-05-26 19:21:08,488 [NUnit.Fw.ParallelWorker#7] DEBUG WebUITests.ContactPageTests - Page source loaded
+2025-05-26 19:21:08,488 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.ContactPageTests - Checking contact info presence
+2025-05-26 19:21:08,494 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.ContactPageTests - Checking social links
+2025-05-26 19:21:08,494 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.ContactPageTests - Contact and social info successfully verified
+2025-05-26 19:21:08,764 [NUnit.Fw.ParallelWorker#7] INFO  WebUITests.ContactPageTests - End of ContactPageTests
+2025-05-26 19:21:10,224 [NUnit.Fw.ParallelWorker#5] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-05-26 19:21:11,463 [NUnit.Fw.ParallelWorker#10] DEBUG WebUITests.LanguageSwitchTests - Clicking language switcher
+2025-05-26 19:21:11,588 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - Lithuanian link found, clicking it
+2025-05-26 19:21:12,957 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=study+programs'
+2025-05-26 19:21:12,960 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-05-26 19:21:13,382 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-05-26 19:21:14,516 [NUnit.Fw.ParallelWorker#4] DEBUG WebUITests.NavigationTests - Clicked on About
+2025-05-26 19:21:14,522 [NUnit.Fw.ParallelWorker#4] INFO  WebUITests.NavigationTests - Verified URL
+2025-05-26 19:21:14,526 [NUnit.Fw.ParallelWorker#4] INFO  WebUITests.NavigationTests - Verified title
+2025-05-26 19:21:14,542 [NUnit.Fw.ParallelWorker#4] INFO  WebUITests.NavigationTests - Verified header
+2025-05-26 19:21:14,542 [NUnit.Fw.ParallelWorker#4] INFO  WebUITests.NavigationTests - Navigation test passed successfully.
+2025-05-26 19:21:14,787 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-05-26 19:21:14,788 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'admissions'
+2025-05-26 19:21:14,857 [NUnit.Fw.ParallelWorker#4] INFO  WebUITests.NavigationTests - End of NavigationTests
+2025-05-26 19:21:18,897 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - Successfully switched to Lithuanian version
+2025-05-26 19:21:19,292 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - End of LanguageSwitchTests
+2025-05-26 19:21:20,554 [NUnit.Fw.ParallelWorker#5] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-05-26 19:21:23,100 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=admissions'
+2025-05-26 19:21:23,102 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-05-26 19:21:23,267 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-05-26 19:21:24,365 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-05-26 19:21:24,365 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'erasmus'
+2025-05-26 19:21:29,454 [NUnit.Fw.ParallelWorker#5] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-05-26 19:21:32,014 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=erasmus'
+2025-05-26 19:21:32,016 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-05-26 19:21:32,176 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-06-01 16:30:05,613 [NUnit.Fw.ParallelWorker#3] INFO  WebUITests.NavigationTests - Global setup initialized.
+2025-06-01 16:30:07,281 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - Start of ContactPageTests
+2025-06-01 16:30:07,452 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-06-01 16:30:07,453 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.LanguageSwitchTests - Start of LanguageSwitchTests
+2025-06-01 16:30:07,455 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'study programs'
+2025-06-01 16:30:07,455 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.LanguageSwitchTests - Navigating to https://en.ehu.lt/
+2025-06-01 16:30:07,457 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - Navigating to Contact page
+2025-06-01 16:30:07,601 [NUnit.Fw.ParallelWorker#3] INFO  WebUITests.NavigationTests - Start of NavigationTests
+2025-06-01 16:30:07,602 [NUnit.Fw.ParallelWorker#3] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/
+2025-06-01 16:30:13,095 [NUnit.Fw.ParallelWorker#2] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-06-01 16:30:13,359 [NUnit.Fw.ParallelWorker#9] DEBUG WebUITests.LanguageSwitchTests - Clicking language switcher
+2025-06-01 16:30:13,449 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.LanguageSwitchTests - Lithuanian link found, clicking it
+2025-06-01 16:30:15,965 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=study+programs'
+2025-06-01 16:30:15,968 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-06-01 16:30:16,126 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-06-01 16:30:17,314 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-06-01 16:30:17,315 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'admissions'
+2025-06-01 16:30:18,213 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.LanguageSwitchTests - Successfully switched to Lithuanian version
+2025-06-01 16:30:18,507 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.LanguageSwitchTests - End of LanguageSwitchTests
+2025-06-01 16:30:18,953 [NUnit.Fw.ParallelWorker#10] DEBUG WebUITests.ContactPageTests - Page source loaded
+2025-06-01 16:30:18,953 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - Checking contact info presence
+2025-06-01 16:30:18,953 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - Checking social links
+2025-06-01 16:30:18,953 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - Contact and social info successfully verified
+2025-06-01 16:30:19,051 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.ContactPageTests - End of ContactPageTests
+2025-06-01 16:30:22,261 [NUnit.Fw.ParallelWorker#2] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-06-01 16:30:24,775 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=admissions'
+2025-06-01 16:30:24,778 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-06-01 16:30:24,930 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-06-01 16:30:26,036 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Start of SearchTests
+2025-06-01 16:30:26,036 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/ with search term: 'erasmus'
+2025-06-01 16:30:30,690 [NUnit.Fw.ParallelWorker#2] DEBUG WebUITests.NavigationTests - Executing JS to perform search
+2025-06-01 16:30:33,224 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Validating that URL contains expected fragment: '?s=erasmus'
+2025-06-01 16:30:33,226 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - Search test passed successfully
+2025-06-01 16:30:33,367 [NUnit.Fw.ParallelWorker#2] INFO  WebUITests.NavigationTests - End of SearchTests
+2025-06-01 16:30:50,025 [NUnit.Fw.ParallelWorker#3] DEBUG WebUITests.NavigationTests - Clicked on About
+2025-06-01 16:30:50,029 [NUnit.Fw.ParallelWorker#3] INFO  WebUITests.NavigationTests - Verified URL
+2025-06-01 16:30:50,032 [NUnit.Fw.ParallelWorker#3] INFO  WebUITests.NavigationTests - Verified title
+2025-06-01 16:30:50,047 [NUnit.Fw.ParallelWorker#3] INFO  WebUITests.NavigationTests - Verified header
+2025-06-01 16:30:50,047 [NUnit.Fw.ParallelWorker#3] INFO  WebUITests.NavigationTests - Navigation test passed successfully.
+2025-06-01 16:30:50,246 [NUnit.Fw.ParallelWorker#3] INFO  WebUITests.NavigationTests - End of NavigationTests
+2025-06-01 16:33:05,967 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.NavigationTests - Global setup initialized.
+2025-06-01 16:33:06,707 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.NavigationTests - Start of NavigationTests
+2025-06-01 16:33:06,709 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/
+2025-06-01 16:33:48,122 [NUnit.Fw.ParallelWorker#10] DEBUG WebUITests.NavigationTests - Clicked on About
+2025-06-01 16:33:48,184 [NUnit.Fw.ParallelWorker#10] ERROR WebUITests.NavigationTests - Assertion failed
+NUnit.Framework.AssertionException: Expected aboutPage.Url to be the same string because we expect to be on the About page, but they differ at index 20:
+              ↓ (actual)
+  "….ehu.lt/about/"
+  "….ehu.lt/ab0ut/"
+              ↑ (expected).
+   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)
+   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)
+   at FluentAssertions.Execution.AssertionScope.AddPreFormattedFailure(String formattedFailureMessage)
+   at FluentAssertions.Execution.AssertionChain.FailWith(Func`1 getFailureReason)
+   at FluentAssertions.Execution.AssertionChain.FailWith(Func`1 getFailureReason)
+   at FluentAssertions.Execution.AssertionChain.FailWith(String message)
+   at FluentAssertions.Primitives.StringEqualityStrategy.AssertForEquality(AssertionChain assertionChain, String subject, String expected)
+   at FluentAssertions.Primitives.StringValidator.Validate(String subject, String expected)
+   at FluentAssertions.Primitives.StringAssertions`1.Be(String expected, String because, Object[] becauseArgs)
+   at WebUITests.NavigationTests.VerifyNavigation() in C:\Users\Anatoli\Desktop\reporting\Tests\Tests.cs:line 52
+2025-06-01 16:33:48,341 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.NavigationTests - End of NavigationTests
+2025-06-01 16:38:08,074 [NUnit.Fw.ParallelWorker#8] INFO  WebUITests.ContactPageTests - Start of ContactPageTests
+2025-06-01 16:38:08,081 [NUnit.Fw.ParallelWorker#8] ERROR WebUITests.ContactPageTests - Error during contact info verification
+NUnit.Framework.InconclusiveException: Inconclusive Test
+   at NUnit.Framework.Assert.Inconclusive(String message)
+   at WebUITests.ContactPageTests.VerifyContactInfoIsVisible() in C:\Users\Anatoli\Desktop\reporting\Tests\Tests.cs:line 224
+2025-06-01 16:38:08,179 [NUnit.Fw.ParallelWorker#8] INFO  WebUITests.ContactPageTests - End of ContactPageTests
+2025-06-01 17:11:02,060 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Global setup initialized.
+2025-06-01 17:11:04,979 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Start of NavigationTests
+2025-06-01 17:11:04,980 [NUnit.Fw.ParallelWorker#8] INFO  WebUITests.ContactPageTests - Start of ContactPageTests
+2025-06-01 17:11:04,980 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - Start of LanguageSwitchTests
+2025-06-01 17:11:05,169 [NUnit.Fw.ParallelWorker#10] INFO  WebUITests.LanguageSwitchTests - End of LanguageSwitchTests
+2025-06-01 17:11:05,176 [NUnit.Fw.ParallelWorker#8] INFO  WebUITests.ContactPageTests - End of ContactPageTests
+2025-06-01 17:11:05,177 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - End of NavigationTests
+2025-06-01 17:40:51,708 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Global setup initialized.
+2025-06-01 17:40:53,201 [NUnit.Fw.ParallelWorker#8] INFO  WebUITests.ContactPageTests - Start of ContactPageTests
+2025-06-01 17:40:53,752 [NUnit.Fw.ParallelWorker#9] INFO  WebUITests.LanguageSwitchTests - Start of LanguageSwitchTests
+2025-06-01 17:40:55,593 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Start of NavigationTests
+2025-06-01 17:40:55,594 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/
+2025-06-01 17:41:00,862 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - End of NavigationTests
+2025-06-01 17:44:21,107 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Global setup initialized.
+2025-06-01 17:44:21,818 [NUnit.Fw.ParallelWorker#12] INFO  WebUITests.LanguageSwitchTests - Start of LanguageSwitchTests
+2025-06-01 17:44:21,857 [NUnit.Fw.ParallelWorker#11] INFO  WebUITests.ContactPageTests - Start of ContactPageTests
+2025-06-01 17:44:22,273 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Start of NavigationTests
+2025-06-01 17:44:22,273 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - Navigating to https://en.ehu.lt/
+2025-06-01 17:44:28,399 [NUnit.Fw.ParallelWorker#5] INFO  WebUITests.NavigationTests - End of NavigationTests

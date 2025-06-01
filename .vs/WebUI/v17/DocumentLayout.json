@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anatoli\\Desktop\\reporting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|c:\\users\\anatoli\\desktop\\reporting\\tests\\tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|solutionrelative:tests\\tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|c:\\users\\anatoli\\desktop\\reporting\\tests\\reports\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|solutionrelative:tests\\reports\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|c:\\users\\anatoli\\desktop\\reporting\\tests\\bookapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|solutionrelative:tests\\bookapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|c:\\users\\anatoli\\desktop\\reporting\\tests\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|solutionrelative:tests\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|c:\\users\\anatoli\\desktop\\reporting\\tests\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|solutionrelative:tests\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|c:\\users\\anatoli\\desktop\\reporting\\tests\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|solutionrelative:tests\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|c:\\users\\anatoli\\desktop\\reporting\\tests\\config\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB5366-999D-4FE6-99C3-B6225C20E0BD}|Tests\\NUnitTests.csproj|solutionrelative:tests\\config\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookApiValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\BookApiValidator.cs",
+              "RelativeDocumentMoniker": "Tests\\BookApiValidator.cs",
+              "ToolTip": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\BookApiValidator.cs",
+              "RelativeToolTip": "Tests\\BookApiValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:47:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "Tests\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\TokenProvider.cs",
+              "RelativeToolTip": "Tests\\TokenProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:17:20.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "Tests\\Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\Tests\\Tests.cs",
+              "RelativeToolTip": "Tests\\Tests\\Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:09:06.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\Reports\\ReportManager.cs",
+              "RelativeDocumentMoniker": "Tests\\Reports\\ReportManager.cs",
+              "ToolTip": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\Reports\\ReportManager.cs",
+              "RelativeToolTip": "Tests\\Reports\\ReportManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:08:54.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Tests\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\Models\\Book.cs",
+              "RelativeToolTip": "Tests\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:08:44.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\Config\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Tests\\Config\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\Config\\AppSettings.cs",
+              "RelativeToolTip": "Tests\\Config\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:08:32.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\appsettings.json",
+              "RelativeDocumentMoniker": "Tests\\appsettings.json",
+              "ToolTip": "C:\\Users\\Anatoli\\Desktop\\reporting\\Tests\\appsettings.json",
+              "RelativeToolTip": "Tests\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T16:08:16.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1908,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
